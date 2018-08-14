@@ -1,5 +1,8 @@
 https://dashboard.heroku.com/apps/calm-stream-34376
 
+mysql://tr2mvhtpuiy0jl9a:rmn9bu62betxkx3b@muowdopceqgxjn2b.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/o2qr6v3oijbrzhuh
+
+http://www.andyhang.com/post/heroku-deployment-with-sql/
 # Burger
 In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
 
